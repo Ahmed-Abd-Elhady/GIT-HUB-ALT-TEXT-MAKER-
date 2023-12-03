@@ -1,1 +1,4 @@
 # GIT-HUB-ALT-TEXT-MAKER-
+SIMPLE PROGRAME TO ALT TEXT 😅
+
+![Alt text](https://cdn.discordapp.com/attachments/1116893606393937950/1180820109179240518/image.png?ex=657ecf6c&is=656c5a6c&hm=1ed1fe2de5af0f0d5e34e4fc6c76f482e0c60b27906a2837189c367c25cb3273&)
